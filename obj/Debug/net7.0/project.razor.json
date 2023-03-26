@@ -18645,6 +18645,11 @@
   "RootNamespace": "MvcMovie",
   "Documents": [
     {
+      "FilePath": "c:\\Users\\thedy\\Desktop\\COMP367\\lab3\\MvcMovie\\Views\\HelloWorld\\Welcome.cshtml",
+      "TargetPath": "Views\\HelloWorld\\Welcome.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\thedy\\Desktop\\COMP367\\lab3\\MvcMovie\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
       "TargetPath": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
       "FileKind": "mvc"
