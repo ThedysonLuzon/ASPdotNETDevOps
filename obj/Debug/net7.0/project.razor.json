@@ -18680,6 +18680,11 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\Users\\thedy\\Desktop\\COMP367\\lab3\\MvcMovie\\Views\\Movies\\Details.cshtml",
+      "TargetPath": "Views\\Movies\\Details.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\thedy\\Desktop\\COMP367\\lab3\\MvcMovie\\Views\\HelloWorld\\HelloWorld.cshtml",
       "TargetPath": "Views\\HelloWorld\\HelloWorld.cshtml",
       "FileKind": "mvc"
